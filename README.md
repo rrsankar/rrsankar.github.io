@@ -8,10 +8,10 @@ Certificate, Cybersecurity | Durham College (_June 2023_)
 ## Work Experience
 Data Scientist @ Dogico Information Inc. (_Oct 2022 - Apr 2024_)  
 AI Application Support @ Durham College AI Hub (_May 2022 - Aug 2022_)  
-Machine Learning Engineer @ Reflections Info Systems (_July 2020 - June 2021_)  
-Software Engineer @ FourmalTech Solutions (_July 2019 - June 2020_)  
+Machine Learning Engineer @ Reflections Info Systems (_Jul 2020 - Jun 2021_)  
+Software Engineer @ FourmalTech Solutions (_Jul 2019 - Jun 2020_)  
 
-*Freelance ML Consultant (_Aug 2023 - May 2024_)*
+*Freelance ML Consultant (Aug 2023 - May 2024)*
 
 ## Certification
 - Databricks Certified Machine Learning Associate	
