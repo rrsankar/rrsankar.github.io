@@ -11,7 +11,7 @@ Certificate, Cybersecurity | Durham College (_June 2023_)
 **Machine Learning Engineer |** [Reflections Info Systems](https://www.linkedin.com/company/reflectionsit/) (_Jul 2020 - Jun 2021_)  
 **Software Engineer |** [FourmalTech Solutions](https://www.linkedin.com/company/fourmaltechsolution/) (_Jul 2019 - Jun 2020_)  
 
-*Freelance ML Consultant (Aug 2023 - May 2024)*
+***Freelance ML Consultant** (Aug 2023 - May 2024)*
 
 ## Certification
 - [Databricks Certified Machine Learning Associate](https://credentials.databricks.com/be519480-ba26-433f-b891-967ae289a5e8)  
@@ -53,6 +53,6 @@ Certificate, Cybersecurity | Durham College (_June 2023_)
 - Resulted in reduced derailment risk, optimized maintenance schedules & significant cost savings.  
 
 **4. Wildlife Detection in Databricks:** 
-- Designed a process in Azure Databricks to analyze & identify wildlife images across large image repositories.
-- Employed distributed ML using PySpark, pandas UDF, TensorFlow & Yolo ML models.
+- Designed a process in Azure Databricks to analyze & identify wildlife images across large image repositories (Over 4mil per cycle).
+- Employed distributed ML using PySpark, pandas UDF & custom trained YoloV5 model for inference.
 - Reduced significant time & cost associated with manual image evaluation.  
