@@ -22,9 +22,14 @@ Certificate, Cybersecurity | Durham College (_June 2023_)
 ## Talks & Presentations
 
 1. One of the Speakers in the **Enable AI Summit 2022** hosted by **Durham College**.  
+
 ![Speakers](/assets/img/enable-ai-speakers-2022.jpeg)
 
 2. Presented the **Wildlife Detection in Databricks** project to the **Databricks Montreal User Group**.
+
+## Personal Projects
+
+1. [**Predicting Customer Lifetime Value using BGNBD & Gamma Gamma model**](https://github.com/rrsankar/CLV-Prediction-Using-ML/tree/main/CLV_using_Lifetimes_BGNBD_GammaGamma)
 
 ## Professional & Freelance Projects
 
