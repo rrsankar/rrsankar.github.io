@@ -21,9 +21,14 @@ Certificate, Cybersecurity | Durham College (_June 2023_)
 
 ## Talks & Presentations
 
+- Presenting to the Leadership team from [Mitacs Canada](https://www.mitacs.ca/) about some of the the critical projects we did at [AI Hub, Durham College](https://durhamcollege.ca/about/office-of-research-services-innovation-and-entrepreneurship-orsie/the-ai-hub).
+
+![MitacsPresentation](/assets/img/Mitacs-presentation.jpeg)
+
 - One of the Speakers in the **Enable AI Summit 2022** hosted by **Durham College**.  
 
-![Speakers](/assets/img/enable-ai-speakers-2022.jpeg)
+![EnableAISpeakers](/assets/img/enable-ai-speakers-2022.jpeg)
+
 - Presented the **Wildlife Detection in Databricks** project to the **Databricks Montreal User Group**.
 
 ## Personal Projects
