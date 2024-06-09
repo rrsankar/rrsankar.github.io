@@ -37,7 +37,7 @@ Certificate, Cybersecurity | Durham College (_June 2023_)
 
 ## Professional & Freelance Projects
 
-#### <u>NLP / LLM</u>
+#### NLP / LLM
 
 **1. Create new products using Generative AI:**
 - Implemented an innovative approach in crafting new products (organic healthy meals) for UpMeals by using Generative AI. 
@@ -45,13 +45,13 @@ Certificate, Cybersecurity | Durham College (_June 2023_)
 - Used the GPT-4 Large Language Model via OpenAI API for text generation.
 - Ensured the quality of generated content by validating against company inventory.
 
-#### <u>Forecasting</u>
+#### Forecasting
 **2. Demand Forecasting & Stock Optimization:**
 - Created a Forecasting process to predict future vending machine sales & optimize the stocking quantities, resulting in decreased wastage & increased profits.
 - Implemented data engineering pipelines, conducted EDA, & performed feature engineering. 
 - Developed a Regression model for Demand Forecasting with XGBoost framework and Sales Classification model with LightGBM. 
 
-#### <u>Vision</u>
+#### Vision
 
 **3. Anomaly Detection:** 
 - Developed an AutoEncoder based Anomaly Detection system to identify structural issues in mine trains.
