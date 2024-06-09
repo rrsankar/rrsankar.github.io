@@ -1,9 +1,9 @@
 # Data Scientist
 
 ## Education
-B.Tech, Computer Science | University of Kerala (_December 2018_)  
-Certificate, Artificial Intelligence | Durham College (_June 2022_)  
-Certificate, Cybersecurity | Durham College (_June 2023_)  
+Bachelor's, Computer Science | University of Kerala (_December 2018_)  
+Graduate Certificate, Artificial Intelligence | Durham College (_June 2022_)  
+Graduate Certificate, Cybersecurity | Durham College (_June 2023_)  
 
 ## Work Experience
 **Data Scientist |** [Dogico Information Inc.](https://www.linkedin.com/company/dogico-information-inc./) (_Oct 2022 - Apr 2024_)  
