@@ -6,7 +6,7 @@ Graduate Certificate, Artificial Intelligence | Durham College (_June 2022_)
 Graduate Certificate, Cybersecurity | Durham College (_June 2023_)  
 
 ## Work Experience
-***Freelance ML Consultant** (Aug 2023 - May 2024)*  
+**Freelance AI/ML Consultant** (Aug 2023 - May 2024)  
 **Data Scientist |** [Dogico Information Inc.](https://www.linkedin.com/company/dogico-information-inc./) (_Oct 2022 - Apr 2024_)  
 **AI Application Support |** [Durham College AI Hub](https://www.linkedin.com/showcase/dcaihub/) (_May 2022 - Aug 2022_)  
 **Machine Learning Engineer |** [Reflections Info Systems](https://www.linkedin.com/company/reflectionsit/) (_Jul 2020 - Jun 2021_)  
@@ -28,7 +28,7 @@ Graduate Certificate, Cybersecurity | Durham College (_June 2023_)
 
 ## Personal Projects
 
-1. [Predicting Customer Lifetime Value using BGNBD & Gamma Gamma model](https://github.com/rrsankar/CLV-Prediction-Using-ML/tree/main/CLV_using_Lifetimes_BGNBD_GammaGamma)  
+1. Predicting Customer Lifetime Value (CLV) using BG/NBD & Gamma-Gamma model - [Folder](https://github.com/rrsankar/CLV-Prediction-Using-ML/tree/main/CLV_using_Lifetimes_BGNBD_GammaGamma)  
 2. Check my experiments with VectorDBs - [Repo](https://github.com/rrsankar/All-About-VectorDB)  
 3. Check my experiments with BERT - [Repo](https://github.com/rrsankar/All-About-BERT)  
 
