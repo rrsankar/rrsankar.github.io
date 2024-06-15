@@ -6,12 +6,11 @@ Graduate Certificate, Artificial Intelligence | Durham College (_June 2022_)
 Graduate Certificate, Cybersecurity | Durham College (_June 2023_)  
 
 ## Work Experience
+***Freelance ML Consultant** (Aug 2023 - May 2024)*  
 **Data Scientist |** [Dogico Information Inc.](https://www.linkedin.com/company/dogico-information-inc./) (_Oct 2022 - Apr 2024_)  
 **AI Application Support |** [Durham College AI Hub](https://www.linkedin.com/showcase/dcaihub/) (_May 2022 - Aug 2022_)  
 **Machine Learning Engineer |** [Reflections Info Systems](https://www.linkedin.com/company/reflectionsit/) (_Jul 2020 - Jun 2021_)  
 **Software Engineer |** [FourmalTech Solutions](https://www.linkedin.com/company/fourmaltechsolution/) (_Jul 2019 - Jun 2020_)  
-
-***Freelance ML Consultant** (Aug 2023 - May 2024)*
 
 ## Certification
 - [Databricks Certified Machine Learning Associate](https://credentials.databricks.com/be519480-ba26-433f-b891-967ae289a5e8)  
@@ -20,20 +19,18 @@ Graduate Certificate, Cybersecurity | Durham College (_June 2023_)
 - [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/02705434-5aab-4230-b094-bad4fc9d7399)
 
 ## Talks & Presentations
-
-- Presenting to the Leadership team from [Mitacs Canada](https://www.mitacs.ca/) about some of the the critical projects we did at [AI Hub, Durham College](https://durhamcollege.ca/about/office-of-research-services-innovation-and-entrepreneurship-orsie/the-ai-hub).
-
-![MitacsPresentation](/assets/img/Mitacs-presentation.jpeg)
-
-- One of the Speakers in the **Enable AI Summit 2022** hosted by **Durham College**.  
+- [Nov 2023] Presented the **Wildlife Detection in Databricks** project to the **Databricks Montreal User Group**.
+- [Sep 2022] Presented to the Leadership team from [Mitacs Canada](https://www.mitacs.ca/) about a critical project that we did at [AI Hub, Durham College](https://durhamcollege.ca/about/office-of-research-services-innovation-and-entrepreneurship-orsie/the-ai-hub).
+- [June 2022] One of the Speakers in the **Enable AI Summit 2022** hosted by **Durham College**.  
 
 ![EnableAISpeakers](/assets/img/enable-ai-speakers-2022.jpeg)
-
-- Presented the **Wildlife Detection in Databricks** project to the **Databricks Montreal User Group**.
+![MitacsPresentation](/assets/img/Mitacs-presentation.jpeg)
 
 ## Personal Projects
 
-1. [Predicting Customer Lifetime Value using BGNBD & Gamma Gamma model](https://github.com/rrsankar/CLV-Prediction-Using-ML/tree/main/CLV_using_Lifetimes_BGNBD_GammaGamma)
+1. [Predicting Customer Lifetime Value using BGNBD & Gamma Gamma model](https://github.com/rrsankar/CLV-Prediction-Using-ML/tree/main/CLV_using_Lifetimes_BGNBD_GammaGamma)  
+2. Check my experiments with VectorDBs - [Repo](https://github.com/rrsankar/All-About-VectorDB)  
+3. Check my experiments with BERT - [Repo](https://github.com/rrsankar/All-About-BERT)  
 
 ## Professional & Freelance Projects
 
