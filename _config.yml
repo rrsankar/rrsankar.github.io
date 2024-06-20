@@ -1,5 +1,9 @@
 title: Ram Raghu Sankar
 logo: /assets/img/Headshot.jpg
 #description: text below image
-#show_downloads: true
+social-network-links:
+  github: https://github.com/rrsankar
+  twitter: https://x.com/ramrsankar
+  linkedin: https://www.linkedin.com/in/ramrsankar/
+show_downloads: true
 theme: jekyll-theme-minimal   # https://pages.github.com/themes/
