@@ -1,4 +1,4 @@
-## Who am I?
+## Bio
 Ram is an experienced & certified data professional building data-driven solutions powered by AI. He likes to run experiments on new AI tools & tech, which can be found in his github (Ram's Lab). He collaborates with his friends at Seed-42.
 
 ## Education
