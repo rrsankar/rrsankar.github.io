@@ -50,18 +50,17 @@ Graduate Certificate, Cybersecurity | Durham College (_June 2023_)
 - Developed a Regression model for Demand Forecasting with XGBoost framework and Sales Classification model with LightGBM. 
 
 #### Vision
-
-**3. Anomaly Detection:** 
-- Developed an AutoEncoder based Anomaly Detection system to identify structural issues in mine trains.
-- Resulted in reduced derailment risk, optimized maintenance schedules & significant cost savings.  
-
-**4. Wildlife Detection in Databricks:** 
+**3. Wildlife Detection in Databricks:** 
 - Designed a process in Azure Databricks to analyze & identify wildlife images across large image repositories (Over 4mil per cycle).
 - Employed distributed ML using PySpark, pandas UDF & custom trained YoloV5 model for inference.
 - Reduced significant time & cost associated with manual image evaluation.  
 
+**4. Anomaly Detection:** 
+- Developed an AutoEncoder based Anomaly Detection system to identify structural issues in mine trains.
+- Resulted in reduced derailment risk, optimized maintenance schedules & significant cost savings.  
+
 ## Outside Work
 
-Enjoy Hiking, traveling, workout, martial arts & the occasional Beer.
+Ram enjoys hiking, traveling, workout, martial arts & the occasional Beer.
 
 ![Trek](/assets/img/Trek-Cut.jpg)
