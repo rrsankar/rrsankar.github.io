@@ -64,4 +64,4 @@ Graduate Certificate, Cybersecurity | Durham College (_June 2023_)
 
 Enjoy Hiking, traveling, workout, martial arts & the occasional Beer.
 
-![Trek](/assets/img/Trek.jpg)
+![Trek](/assets/img/Trek-Cut.jpg)
