@@ -59,3 +59,9 @@ Graduate Certificate, Cybersecurity | Durham College (_June 2023_)
 - Designed a process in Azure Databricks to analyze & identify wildlife images across large image repositories (Over 4mil per cycle).
 - Employed distributed ML using PySpark, pandas UDF & custom trained YoloV5 model for inference.
 - Reduced significant time & cost associated with manual image evaluation.  
+
+## Outside Work
+
+Enjoy Hiking, traveling, workout, martial arts & the occasional Beer.
+
+![Trek](/assets/img/Trek.jpg)
