@@ -1,4 +1,5 @@
-# Data Scientist
+## Who am I?
+Ram is an experienced & certified data professional building data-driven solutions powered by AI. He likes to run experiments on new AI tools & tech, which can be found in his github (Ram's Lab). He collaborates with his friends at Seed-42.
 
 ## Education
 Bachelor's, Computer Science | University of Kerala (_December 2018_)  
@@ -6,7 +7,7 @@ Graduate Certificate, Artificial Intelligence | Durham College (_June 2022_)
 Graduate Certificate, Cybersecurity | Durham College (_June 2023_)  
 
 ## Work Experience
-**Freelance AI/ML Consultant** (Aug 2023 - May 2024)  
+**Freelance AI/ML Consultant** (_Aug 2023 - May 2024_)  
 **Data Scientist |** [Dogico Information Inc.](https://www.linkedin.com/company/dogico-information-inc./) (_Oct 2022 - Apr 2024_)  
 **AI Application Support |** [Durham College AI Hub](https://www.linkedin.com/showcase/dcaihub/) (_May 2022 - Aug 2022_)  
 **Machine Learning Engineer |** [Reflections Info Systems](https://www.linkedin.com/company/reflectionsit/) (_Jul 2020 - Jun 2021_)  
@@ -33,7 +34,7 @@ Graduate Certificate, Cybersecurity | Durham College (_June 2023_)
 3. Check all my experiments with VectorDBs - [Repo](https://github.com/rrsankar/All-About-VectorDB)  
 4. Check all my experiments with BERT models - [Repo](https://github.com/rrsankar/All-About-BERT)  
 
-## Professional & Freelance Projects
+## Professional & Freelance work
 
 #### NLP / LLM
 
