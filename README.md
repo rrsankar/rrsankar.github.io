@@ -26,11 +26,12 @@ Graduate Certificate, Cybersecurity | Durham College (_June 2023_)
 ![EnableAISpeakers](/assets/img/enable-ai-speakers-2022.jpeg)
 ![MitacsPresentation](/assets/img/Mitacs-presentation.jpeg)
 
-## Personal Projects
+## Ram's Lab (My Projects)
 
 1. Predicting Customer Lifetime Value (CLV) using BG/NBD & Gamma-Gamma model - [Folder](https://github.com/rrsankar/CLV-Prediction-Using-ML/tree/main/CLV_using_Lifetimes_BGNBD_GammaGamma)  
-2. Check my experiments with VectorDBs - [Repo](https://github.com/rrsankar/All-About-VectorDB)  
-3. Check my experiments with BERT - [Repo](https://github.com/rrsankar/All-About-BERT)  
+2. Image Similarity Search App powered by Qdrant VectorDB - [Folder](https://github.com/rrsankar/All-About-VectorDB/tree/main/2-Image-Similarity-Search-App-with-Qdrant).
+3. Check all my experiments with VectorDBs - [Repo](https://github.com/rrsankar/All-About-VectorDB)  
+4. Check all my experiments with BERT models - [Repo](https://github.com/rrsankar/All-About-BERT)  
 
 ## Professional & Freelance Projects
 
