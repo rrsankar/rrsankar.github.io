@@ -62,6 +62,6 @@ Graduate Certificate, Cybersecurity | Durham College (_June 2023_)
 
 ## Outside Work
 
-Ram enjoys hiking, traveling, workout, martial arts & the occasional Beer.
+Ram enjoys hiking, traveling, workout, & martial arts.
 
 ![Trek](/assets/img/Trek-Cut.jpg)
