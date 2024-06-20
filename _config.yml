@@ -1,9 +1,10 @@
 title: Ram Raghu Sankar
 logo: /assets/img/Headshot.jpg
-#description: text below image
-social-network-links:
-  github: https://github.com/rrsankar
-  twitter: https://x.com/ramrsankar
-  linkedin: https://www.linkedin.com/in/ramrsankar/
-show_downloads: true
+description: Ram is an experienced data professional building data-driven solutions powered by AI. He likes to run experiments with new AI tools & technologies. You can find different personal projects at Ram's Lab. He also collaborate with his friends at Seed-42.
+twitter_username: ramrsankar
+github_username: rrsankar
+# social-network-links:
+#   github: https://github.com/rrsankar
+#   twitter: https://x.com/ramrsankar
+#   linkedin: https://www.linkedin.com/in/ramrsankar/
 theme: jekyll-theme-minimal   # https://pages.github.com/themes/
