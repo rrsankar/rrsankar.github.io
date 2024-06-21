@@ -63,6 +63,6 @@ Check all the experiments with Large Language Models [here](https://github.com/r
 
 ## Outside Work
 
-Ram enjoys hiking, traveling, workout, & martial arts.
+In his free time, he enjoys hiking, traveling, workout, and martial arts.
 
 ![Trek](/assets/img/Trek-Cut.jpg)
