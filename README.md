@@ -1,5 +1,5 @@
 ## Bio
-Ram is an experienced & certified data professional building data-driven solutions powered by AI. He likes to run experiments on new AI tools & tech, which can be found in his github (Ram's Lab). He collaborates with his friends at Seed-42.
+Ram is an experienced & certified data professional building data-driven solutions powered by AI. He likes to run experiments on AI tools & tech, which can be found in his GitHub (Ram's Lab). 
 
 ## Education
 Bachelor's, Computer Science | University of Kerala (_December 2018_)  
@@ -28,11 +28,12 @@ Graduate Certificate, Cybersecurity | Durham College (_June 2023_)
 ![MitacsPresentation](/assets/img/Mitacs-presentation.jpeg)
 
 ## Ram's Lab (My Projects)
+1. Image Similarity Search App powered by Qdrant VectorDB - [Folder](https://github.com/rrsankar/All-About-VectorDB/tree/main/2-Image-Similarity-Search-App-with-Qdrant).
+2. Fine-Tuning Llama-2 LLM with PEFT & LoRA - [Notebook](https://github.com/rrsankar/All-About-LLM/blob/main/2-Fine-Tuning-Llama2-with-LoRa/fine_tuning_llama2.ipynb)
+3. Predicting Customer Lifetime Value (CLV) using BG/NBD & Gamma-Gamma model - [Folder](https://github.com/rrsankar/CLV-Prediction-Using-ML/tree/main/CLV_using_Lifetimes_BGNBD_GammaGamma)  
 
-1. Predicting Customer Lifetime Value (CLV) using BG/NBD & Gamma-Gamma model - [Folder](https://github.com/rrsankar/CLV-Prediction-Using-ML/tree/main/CLV_using_Lifetimes_BGNBD_GammaGamma)  
-2. Image Similarity Search App powered by Qdrant VectorDB - [Folder](https://github.com/rrsankar/All-About-VectorDB/tree/main/2-Image-Similarity-Search-App-with-Qdrant).
-3. Check all my experiments with VectorDBs - [Repo](https://github.com/rrsankar/All-About-VectorDB)  
-4. Check all my experiments with BERT models - [Repo](https://github.com/rrsankar/All-About-BERT)  
+Check all the experiments with Vector databases [here](https://github.com/rrsankar/All-About-VectorDB).  
+Check all the experiments with Large Language Models [here](https://github.com/rrsankar/All-About-LLM).
 
 ## Professional & Freelance work
 
