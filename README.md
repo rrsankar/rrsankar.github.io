@@ -1,13 +1,12 @@
 ## Bio
-Ram is an experienced & certified data professional building data-driven solutions powered by AI. He likes to run experiments on AI tools & tech, which can be found in his GitHub (Ram's Lab). 
+I'm an experienced & certified data professional building data-driven solutions leveraging AI & Machine Learning.
 
 ## Education
-Bachelor's, Computer Science | University of Kerala (_December 2018_)  
-Graduate Certificate, Artificial Intelligence | Durham College (_June 2022_)  
-Graduate Certificate, Cybersecurity | Durham College (_June 2023_)  
+Bachelor's, Computer Science | University of Kerala  
+Graduate Studies, Artificial Intelligence & Cybersecurity | Durham College  
 
 ## Work Experience
-**Freelance AI/ML Consultant** (_Aug 2023 - May 2024_)  
+**AI Consultant |** [UpMeals](https://www.linkedin.com/company/upmeals/) (_Aug 2023 - May 2024_)  
 **Data Scientist |** [Dogico Information Inc.](https://www.linkedin.com/company/dogico-information-inc./) (_Oct 2022 - Apr 2024_)  
 **AI Application Support |** [Durham College AI Hub](https://www.linkedin.com/showcase/dcaihub/) (_May 2022 - Aug 2022_)  
 **Machine Learning Engineer |** [Reflections Info Systems](https://www.linkedin.com/company/reflectionsit/) (_Jul 2020 - Jun 2021_)  
@@ -20,49 +19,34 @@ Graduate Certificate, Cybersecurity | Durham College (_June 2023_)
 - [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/02705434-5aab-4230-b094-bad4fc9d7399)
 
 ## Talks & Presentations
-- [Nov 2023] Presented the **Wildlife Detection in Databricks** project to the **Databricks Montreal User Group**.
-- [Sep 2022] Presented to the Leadership team from [Mitacs Canada](https://www.mitacs.ca/) about a critical project that we did at [AI Hub, Durham College](https://durhamcollege.ca/about/office-of-research-services-innovation-and-entrepreneurship-orsie/the-ai-hub).
-- [June 2022] One of the Speakers in the **Enable AI Summit 2022** hosted by **Durham College**.  
+- _[Nov 2023]_ Presented the **Wildlife Detection in Databricks** project to the **Databricks Montreal User Group**.
+- _[Sep 2022]_ Presented to the Leadership team from [Mitacs Canada](https://www.mitacs.ca/) about a critical project that we did at [AI Hub, Durham College](https://durhamcollege.ca/about/office-of-research-services-innovation-and-entrepreneurship-orsie/the-ai-hub).
+- _[June 2022]_ One of the Speakers in the **Enable AI Summit 2022** hosted by **Durham College**.  
 
 ![EnableAISpeakers](/assets/img/enable-ai-speakers-2022.jpeg)
 ![MitacsPresentation](/assets/img/Mitacs-presentation.jpeg)
 
-## Ram's Lab (My Projects)
+## Portfolio Projects (Top 3)
 1. Image Similarity Search App powered by Qdrant VectorDB - [Folder](https://github.com/rrsankar/All-About-VectorDB/tree/main/2-Image-Similarity-Search-App-with-Qdrant).
 2. Fine-Tuning Llama-2 LLM with PEFT & LoRA - [Notebook](https://github.com/rrsankar/All-About-LLM/blob/main/2-Fine-Tuning-Llama2-with-LoRa/fine_tuning_llama2.ipynb)
 3. Predicting Customer Lifetime Value (CLV) using BG/NBD & Gamma-Gamma model - [Folder](https://github.com/rrsankar/CLV-Prediction-Using-ML/tree/main/CLV_using_Lifetimes_BGNBD_GammaGamma)  
 
-Check all the experiments with Vector databases [here](https://github.com/rrsankar/All-About-VectorDB).  
-Check all the experiments with Large Language Models [here](https://github.com/rrsankar/All-About-LLM).
+_Check all the experiments with Vector databases [here](https://github.com/rrsankar/All-About-VectorDB)._  
+_Check all the experiments with Large Language Models [here](https://github.com/rrsankar/All-About-LLM)._
 
-## Professional & Freelance work
+## Professional Projects (Top 3)
 
-#### NLP / LLM
+**1. Meal Generator:**  
+Led the initiative for the "Meal Generator" product at UpMeals, overseeing its development from inception to execution. Orchestrated the creation of robust data pipelines to procure contextual information, implementing advanced prompt engineering strategies to enhance interactions with the GPT-4 LLM through the OpenAI API. Implemented a rigorous validation framework, meticulously aligning outputs with company inventory to ensure the delivery of innovative culinary solutions that catered precisely to user preferences. This AI solution significantly enhanced the organization's product development capabilities.
 
-**1. Create new products using Generative AI:**
-- Implemented an innovative approach in crafting new products (organic healthy meals) for UpMeals by using Generative AI. 
-- Engineered robust data pipelines for ETL & meticulous Prompt Engineering strategies for optimal model interaction. 
-- Used the GPT-4 Large Language Model via OpenAI API for text generation.
-- Ensured the quality of generated content by validating against company inventory.
+**2. Made 'Smart Vending Machines' smarter:**  
+Spearheaded a strategic initiative focused on enhancing operational efficiency of UpMeals Smart Vending Machines through advanced forecasting and machine learning techniques. Implemented ETL pipelines, conducted data analysis and feature engineering to develop robust ML models for Demand Forecasting and Sales Classification. This initiative successfully reduced product wastage, increased profitability, and improved Sell Through Rate by approximately 40%.
 
-#### Forecasting
-**2. Demand Forecasting & Stock Optimization:**
-- Created a Forecasting process to predict future vending machine sales & optimize the stocking quantities, resulting in decreased wastage & increased profits.
-- Implemented data engineering pipelines, conducted EDA, & performed feature engineering. 
-- Developed a Regression model for Demand Forecasting with XGBoost framework and Sales Classification model with LightGBM. 
-
-#### Vision
-**3. Wildlife Detection in Databricks:** 
-- Designed a process in Azure Databricks to analyze & identify wildlife images across large image repositories (Over 4mil per cycle).
-- Employed distributed ML using PySpark, pandas UDF & custom trained YoloV5 model for inference.
-- Reduced significant time & cost associated with manual image evaluation.  
-
-**4. Anomaly Detection:** 
-- Developed an AutoEncoder based Anomaly Detection system to identify structural issues in mine trains.
-- Resulted in reduced derailment risk, optimized maintenance schedules & significant cost savings.  
+**3. Wildlife Detection in Databricks:**  
+Worked on a pioneering project at Agnico Eagle Mines on behalf of Dogico, leveraging Azure Databricks to develop a scalable solution for wildlife image analysis. Designed and implemented a distributed machine learning pipeline using PySpark, SQL and pandas UDFs, integrating a custom-trained YoloV5 model for efficient inference across large image repositories. This initiative significantly reduced time and costs associated with manual image evaluation, achieving approximately 75% decrease in processing time and identifying five times more wildlife images compared to manual methods.
 
 ## Outside Work
 
-In his free time, he enjoys hiking, traveling, workout, and martial arts.
+I enjoy hiking, traveling, workout, and martial arts.
 
 ![Trek](/assets/img/Trek-Cut.jpg)
