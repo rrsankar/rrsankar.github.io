@@ -2,11 +2,11 @@
 I'm an experienced & certified data professional building data-driven solutions leveraging AI & Machine Learning.
 
 ## Education
-Bachelor's, Computer Science | University of Kerala  
-Graduate Studies, Artificial Intelligence & Cybersecurity | Durham College  
+Bachelor's, **Computer Science** | University of Kerala  
+Graduate Certificate, **Artificial Intelligence** | Durham College  
+Graduate Certificate, **Cybersecurity** | Durham College  
 
 ## Work Experience
-**AI Consultant |** Freelance (_Aug 2023 - May 2024_)  
 **Data Scientist |** [Dogico Information Inc.](https://www.linkedin.com/company/dogico-information-inc./) (_Oct 2022 - Apr 2024_)  
 **AI Application Support |** [Durham College AI Hub](https://www.linkedin.com/showcase/dcaihub/) (_May 2022 - Aug 2022_)  
 **Machine Learning Engineer |** [Reflections Info Systems](https://www.linkedin.com/company/reflectionsit/) (_Jul 2020 - Jun 2021_)  
