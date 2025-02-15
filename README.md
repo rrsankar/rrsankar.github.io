@@ -7,9 +7,11 @@ Graduate Certificate, **Artificial Intelligence** | Durham College
 Graduate Certificate, **Cybersecurity** | Durham College  
 
 ## Work Experience
+**Sr. AI Scientist |** [Canadian Imperial Bank of Commerce (CIBC)](https://www.cibc.com/) (_Aug 2024 - Present_)  
+**AI Consultant |** [UpMeals](https://upmeals.com/) (_Aug 2023 - May 2024_)  
 **Data Scientist |** [Dogico Information Inc.](https://www.linkedin.com/company/dogico-information-inc./) (_Oct 2022 - Apr 2024_)  
-**AI Application Support |** [Durham College AI Hub](https://www.linkedin.com/showcase/dcaihub/) (_May 2022 - Aug 2022_)  
-**Machine Learning Engineer |** [Reflections Info Systems](https://www.linkedin.com/company/reflectionsit/) (_Jul 2020 - Jun 2021_)  
+**Research Assistant |** [Durham College AI Hub](https://www.linkedin.com/showcase/dcaihub/) (_May 2022 - Aug 2022_)  
+**Machine Learning Engineer |** [Reflections Info Systems](https://www.reflectionsglobal.com/) (_Jul 2020 - Jun 2021_)  
 **Software Engineer |** [FourmalTech Solutions](https://www.linkedin.com/company/fourmaltechsolution/) (_Jul 2019 - Jun 2020_)  
 
 ## Certification
@@ -23,8 +25,11 @@ Graduate Certificate, **Cybersecurity** | Durham College
 - _[Sep 2022]_ Presented to the Leadership team from [Mitacs Canada](https://www.mitacs.ca/) about a critical project that we did at [AI Hub, Durham College](https://durhamcollege.ca/about/office-of-research-services-innovation-and-entrepreneurship-orsie/the-ai-hub).
 - _[June 2022]_ One of the Speakers in the **Enable AI Summit 2022** hosted by **Durham College**.  
 
-![EnableAISpeakers](/assets/img/enable-ai-speakers-2022.jpeg)
-![MitacsPresentation](/assets/img/Mitacs-presentation.jpeg)
+| ![EnableAISpeakers](/assets/img/enable-ai-speakers-2022.jpeg) | 
+|:--:| 
+| Image 1: Enable AI Summit 2022 Speakers | 
+| ![MitacsPresentation](/assets/img/Mitacs-presentation.jpeg) | 
+| Image 2: Presentation for Mitacs Canada at AI Hub Durham College | 
 
 ## Portfolio Projects (Top 3)
 1. Image Similarity Search App powered by Qdrant VectorDB - [Folder](https://github.com/rrsankar/All-About-VectorDB/tree/main/2-Image-Similarity-Search-App-with-Qdrant).
