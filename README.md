@@ -11,7 +11,7 @@ Graduate Certificate, **Cybersecurity** | Durham College
 **AI Consultant |** [UpMeals](https://upmeals.com/) (_Aug 2023 - May 2024_)  
 **Data Scientist |** [Dogico Information Inc.](https://www.linkedin.com/company/dogico-information-inc./) (_Oct 2022 - Apr 2024_)  
 **Research Assistant |** [Durham College AI Hub](https://www.linkedin.com/showcase/dcaihub/) (_May 2022 - Aug 2022_)  
-**Machine Learning Engineer |** [Reflections Info Systems](https://www.reflectionsglobal.com/) (_Jul 2020 - Jun 2021_)  
+**ML Engineer |** [Reflections Info Systems](https://www.reflectionsglobal.com/) (_Jul 2020 - Jun 2021_)  
 **Software Engineer |** [FourmalTech Solutions](https://www.linkedin.com/company/fourmaltechsolution/) (_Jul 2019 - Jun 2020_)  
 
 ## Certification
