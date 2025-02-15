@@ -7,7 +7,7 @@ Graduate Certificate, **Artificial Intelligence** | Durham College
 Graduate Certificate, **Cybersecurity** | Durham College  
 
 ## Work Experience
-**Sr. AI Scientist |** [Canadian Imperial Bank of Commerce (CIBC)](https://www.cibc.com/) (_Aug 2024 - Present_)  
+**Sr. AI Scientist |** [Canadian Imperial Bank of Commerce](https://www.cibc.com/) (_Aug 2024 - Present_)  
 **AI Consultant |** [UpMeals](https://upmeals.com/) (_Aug 2023 - May 2024_)  
 **Data Scientist |** [Dogico Information Inc.](https://www.linkedin.com/company/dogico-information-inc./) (_Oct 2022 - Apr 2024_)  
 **Research Assistant |** [Durham College AI Hub](https://www.linkedin.com/showcase/dcaihub/) (_May 2022 - Aug 2022_)  
@@ -27,11 +27,11 @@ Graduate Certificate, **Cybersecurity** | Durham College
 
 | ![EnableAISpeakers](/assets/img/enable-ai-speakers-2022.jpeg) | 
 |:--:| 
-| Image 1: Enable AI Summit 2022 Speakers | 
+| _Image 1: Enable AI Summit 2022 Speakers_ | 
 | ![MitacsPresentation](/assets/img/Mitacs-presentation.jpeg) | 
-| Image 2: Presentation for Mitacs Canada at AI Hub Durham College | 
+| _Image 2: Presentation for Mitacs Canada at AI Hub Durham College_ | 
 
-## Portfolio Projects (Top 3)
+## Portfolio Projects
 1. Image Similarity Search App powered by Qdrant VectorDB - [Folder](https://github.com/rrsankar/All-About-VectorDB/tree/main/2-Image-Similarity-Search-App-with-Qdrant).
 2. Fine-Tuning Llama-2 LLM with PEFT & LoRA - [Notebook](https://github.com/rrsankar/All-About-LLM/blob/main/2-Fine-Tuning-Llama2-with-LoRa/fine_tuning_llama2.ipynb)
 3. Predicting Customer Lifetime Value (CLV) using BG/NBD & Gamma-Gamma model - [Folder](https://github.com/rrsankar/CLV-Prediction-Using-ML/tree/main/CLV_using_Lifetimes_BGNBD_GammaGamma)  
@@ -39,7 +39,7 @@ Graduate Certificate, **Cybersecurity** | Durham College
 _Check all the experiments with Vector databases [here](https://github.com/rrsankar/All-About-VectorDB)._  
 _Check all the experiments with Large Language Models [here](https://github.com/rrsankar/All-About-LLM)._
 
-## Professional Projects (Top 3)
+## Professional Projects  
 
 **1. Meal Generator:**  
 Led the initiative for the "Meal Generator" product at UpMeals, overseeing its development from inception to execution. Orchestrated the creation of robust data pipelines to procure contextual information, implementing advanced prompt engineering strategies to enhance interactions with the GPT-4 LLM through the OpenAI API. Implemented a rigorous validation framework, meticulously aligning outputs with company inventory to ensure the delivery of innovative culinary solutions that catered precisely to user preferences. This AI solution significantly enhanced the organization's product development capabilities.
